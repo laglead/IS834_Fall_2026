@@ -1,0 +1,13 @@
+id,Age,userid,Income,Education,Satisfaction,Recommend,Region,Signup Date,comment
+1,23,user1,35000,Bachelor,4,Yes,Northeast,2025-05-01,"Absolutely fantastic service — I am extremely happy and very satisfied with my purchase.,"
+2,45,user2,-68000,Master,5,Yes,Midwest,2024-05-03,"The product quality is excellent and the experience was wonderful from start to finish.,"
+3,31,user3,42000,Associate,3,No,South,2024-04-09,"I really enjoyed the fast delivery and friendly support team.,"
+4,52,user4,91000,Doctorate,4,Yes,West,2025-01-02,"Overall a good experience, though a few minor issues could be improved.,"
+4,52,user4,91000,Doctorate,4,Yes,West,2025-01-02,"The product works fine, but I am slightly disappointed with the packaging.,"
+5,27,user5,50000,Bachelor,,no,Northeast,2024-11-12,"It was okay — not amazing, not terrible, just average.,"
+6,38,user6,60000,Master,5,Yes,South,2023-05-14,"I am unhappy with the slow shipping, but customer service was helpful.,"
+7,41,user7,72000,Bachelor,3,No,Midwest,2024-12-10,"The experience was frustrating and somewhat disappointing.,"
+8,29,user8,40000,High School,4,,West,2024-09-27,"Very poor quality — I regret buying this product.,"
+9,,user9,56000,Bachelor,2,No,,2023-10-01,"The service was terrible and the support team was completely unhelpful.,"
+10,148,user10,80000,Master,5,Yes,South,2025-04-12,"I am extremely dissatisfied and very disappointed with this purchase.,"
+11,25,user3,78643,High School,2,No,North,2026-02-10,This was the worst experience I’ve ever had — absolutely awful and unacceptable.
