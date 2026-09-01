@@ -70,8 +70,6 @@ The following free books are available as reference aids if you want to go furth
 - Python Data Analytics with Pandas, Numpy, and Matplotlib ([link to free resource via BU Library](https://buprimo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA_BOSU151908358870001161&context=L&vid=BU&search_scope=default_scope&tab=default_tab&lang=en_US))
 - Python Recipes Handbook ([link to free resource via BU Library](https://buprimo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA_BOSU151865534390001161&context=L&vid=BU&search_scope=default_scope&tab=default_tab&lang=en_US))
 
-Cheat sheets and a curated link list live in the `Resources/` folder of the course repository, and further supplementary material is placed in each week's `Optional/` folder. The same rule applies to all of it: reference only, never assessed.
-
 ### Software and accounts
 
 All lab work runs in Google Colab in your browser; no local Python installation is required or supported.
