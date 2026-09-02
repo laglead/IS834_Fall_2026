@@ -234,13 +234,13 @@ Quizzes are **handwritten on paper**. There is no software, no laptop, and no co
 
 ## Other Logistics
 
-**Blackboard usage.** Though several learning platforms and tools are used in this class, Blackboard acts as the hub from where all information can be found. All deliverables and their deadlines are posted through Blackboard. It is essential that you pay close attention to Piazza announcements, which contain critical information, and course materials are updated regularly. While a weekly announcement is generally sent as a reminder, it remains your responsibility to set up your alerts appropriately for any updates in the schedule or reading materials.
+**Blackboard usage.** Blackboard is used for **grades** and for material that BU hosts there, such as lecture recordings. It is **not** the hub of this course. This syllabus, kept current in the [course GitHub repository](https://github.com/elhamod/IS834_Fall_2026), is the authoritative source for the schedule and for everything you are responsible for, and **all announcements and course communication happen on [Piazza](https://piazza.com/bu/fall2026/is834)**. Nothing is announced through Blackboard, and messages sent through Blackboard will most likely not receive attention. It remains your responsibility to set your Piazza notifications appropriately so that you see updates to the schedule or the materials.
 
 ---
 
 ## Course Schedule
 
-> Note that while the following table provides a holistic overview of the course's schedule, it is only meant to give general guidance. The exact dates, topics, readings, and deliverables will be posted on Blackboard. Whenever there is a conflict between the syllabus and Blackboard, Blackboard is correct.
+> Note that while the following table provides a holistic overview of the course's schedule, it is only meant to give general guidance. Dates, topics, and deliverables may shift. The version of this syllabus in the [course GitHub repository](https://github.com/elhamod/IS834_Fall_2026) is always the correct one, and any change to it is announced on Piazza.
 
 | \# | Date | Learning Objective | Topics & Concepts | Preparation & Deliverables (BEFORE class unless stated otherwise) |
 | --- | --- | --- | --- | --- |
