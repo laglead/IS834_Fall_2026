@@ -1,13 +1,14 @@
 # Boston University Questrom School of Business
 
 # IS834 – Business Analytics with Python
+
 ### Fall 2026
 
 ---
 
 ## Course Administrative Details
 
-- **Instructor:** [Mohannad Elhamod](https://www.linkedin.com/in/mohannadelhamod/) (Contact exclusively through Piazza)
+- **Instructor:** [Mohannad Elhamod](https://www.linkedin.com/in/mohannadelhamod/) (Contact exclusively through [Piazza](https://piazza.com/bu/fall2026/is834))
 - **Office hours:** **By appointment only** — request an appointment through Piazza (see the Office Hours policy below)
 - **TAs:** TBD, announced in class (Contact exclusively through Piazza); TA office hours are also **by appointment only**, requested through Piazza
 - **Class time and place:** Thursday 6:30 – 9:15 PM / HAR 240
@@ -77,7 +78,7 @@ All lab work runs in Google Colab in your browser; no local Python installation 
 - **Google Colab** — free tier; sign up [here](https://colab.research.google.com/signup). **This must be done before the first class.** All notebooks, labs, and demos run here.
 - [Terrier GPT](https://terriergpt.bu.edu/login) — free to you as a BU student. It is **not endorsed or required by this course** and carries no special status: like any other Generative AI tool, it may be used **only when explicitly authorized**, such as in certain in-class exercises, and is strictly prohibited during quizzes and the final exam. See the Use of AI policy below.
 - **Bring a laptop to every session.** Don't forget your power cord.
-- **Course GitHub repository** — **<https://github.com/elhamod/IS834_Fall_2026>**. Lab notebooks, datasets, and optional supplementary material live here. No GitHub account is needed; nothing has to be downloaded or installed.
+- **Course GitHub repository** — [**https://github.com/elhamod/IS834_Fall_2026**](https://github.com/elhamod/IS834_Fall_2026). Lab notebooks, datasets, and optional supplementary material live here. No GitHub account is needed; nothing has to be downloaded or installed.
 - **Examplify** — the exam application used for the **final exam only**. The four quizzes are handwritten on paper and require no software. Installing Examplify and confirming that it runs on your laptop is **your responsibility**; see the assessment details below.
 
 ---
@@ -88,7 +89,7 @@ All lab work runs in Google Colab in your browser; no local Python installation 
 
 **Piazza is the only channel for course communication.** All questions, discussion, and private messages to the instructor and the TAs go through Piazza. Messages sent by email or through Blackboard will most likely not receive attention.
 
-Join the course Piazza site at **<https://piazza.com/bu/fall2026/is834>** **before the first class**, and do two things straight away:
+Join the course Piazza site at [**https://piazza.com/bu/fall2026/is834**](https://piazza.com/bu/fall2026/is834) **before the first class**, and do two things straight away:
 
 1. **Use your formal name as it appears on Blackboard**, so your posts and participation can be matched to you.
 2. **Turn on at least a daily email digest**, so you do not miss announcements. Click the **gear icon** in Piazza, choose **Account/Email Settings**, then under **Class & Email Settings** click **Edit Email Notifications** for this course, select **Daily Digest**, and click **Save**. ([step-by-step instructions](https://support.piazza.com/support/solutions/articles/48000574383-student-email-notification-settings))
@@ -105,9 +106,9 @@ New to Piazza? See [how to post a question](https://support.piazza.com/support/s
 
 ### Office Hours
 
-Office hours — for the instructor and for any teaching assistants — are held **by appointment only**; there is no standing weekly slot. To request a meeting, send a private Piazza message that lists **at least three possible time frames, each at least two hours wide** — for example, "Tue 1:00 - 3:00 PM, Wed 10:00 AM - 12:00 PM, Thu 3:00 - 5:00 PM." Broad windows are what make it possible to find an overlap on the first try; a request naming a single time or a narrow slot rarely lands.
+Office hours — for the instructor and for any teaching assistants — are held **by appointment only**; there is no standing weekly slot. To request a meeting, send a private Piazza message that lists **at least three possible time frames, each at least two hours wide** — for example, "Tue 1:00 - 3:00 PM, Wed 10:00 AM - 12:00 PM, Thu 3:00 - 5:00 PM." Broad windows are what make it possible to find an overlap on the first try; a request naming a single time or a narrow slot rarely lands. **State the purpose of the visit in the same message** — grade revision, project help, discussion of course content, and so on. That is what allows a request to be routed to the right person and prioritized against the others waiting.
 
-**Requests that do not include three qualifying time frames will not be answered.** You will need to resubmit, which delays the meeting — often past the point where it would have been useful. Plan ahead and send your request well before the deadline you need help with. Meetings are held in the instructor's office (HAR 546D) unless another arrangement is agreed in advance.
+**Requests that do not include three qualifying time frames will not be answered.** You will need to resubmit, which delays the meeting — often past the point where it would have been useful. A request that does not state its purpose may also be delayed while we work out who should take it. Plan ahead and send your request well before the deadline you need help with. Meetings are held in the instructor's office (HAR 546D) unless another arrangement is agreed in advance.
 
 ### Attendance Policy
 
@@ -116,6 +117,7 @@ Regular attendance and preparation are essential, as class sessions include hand
 Because in-class activities and discussion are central to this course and cannot be replicated afterward, your attendance and preparation are reflected in your participation grade (see the Course Evaluation & Expectations section below).
 
 - **Two sessions meet on a Wednesday** — **Wed Oct 14** (session 7) and **Wed Nov 18** (session 13), **6:30 – 9:15 PM in HAR 419** — in place of the December meetings. They are not graded for participation and carry no graded assessment; see *About the makeup sessions* above. Please put both on your calendar now and raise any conflict with the instructor in the first two weeks of the semester.
+- There is no separate attendance rule and no fixed number of permitted absences. Attendance matters only through participation: participation cannot be earned in a session you are not present for, so students who miss a substantial number of sessions will find it difficult to score well on that component.
 - Other assessments and in-class participation evaluation are not waived or postponed due to absence. In particular, quizzes and the final exam are administered in class and there are no makeup sittings. The lowest quiz grade is dropped to absorb a single missed quiz.
 
 ### Academic Accommodations for Students with Special Needs
@@ -176,6 +178,7 @@ To help clarify expectations, here are some examples:
 - Activities unrelated to class — social media, news sites, video, gaming, email, messaging — are not permitted at any time.
 - **Place your name tent:** This helps your instructor learn your names, and it is needed so that your participation can be recorded. Please use your formal name as shown on Blackboard.
 - **Punctuality:** Students are expected to arrive on time.
+- **Pay attention to whoever is speaking:** whether that is the instructor or a fellow student. See *Class participation* below for what happens when it is clear you were not.
 - Food is not allowed. Drinks are OK if consumed in an undistracting way. A 15-minute break is provided midway through the class.
 - **Violations:** The first violation of any of these policies will incur a warning. Subsequent violations will warrant losing 1 point of the final course grade per citation.
 
@@ -185,7 +188,7 @@ This course is developed with attention to how identity and culture shape its co
 
 ### Sexual Misconduct / Title IX
 
-The Questrom School of Business is committed to fostering a safe learning environment and preventing sexual misconduct. All forms of sexual misconduct — including rape, acquaintance rape, sexual assault, domestic and dating violence, stalking, and sexual harassment — violate BU policy, whether they happen on or off campus. Title IX of the Education Amendments of 1972 prohibits sex-based discrimination in federally funded education programs. If you or someone you know has been harassed or assaulted, resources are available at [http://www.bu.edu/safety/sexual-misconduct/](http://www.bu.edu/safety/sexual-misconduct/).
+The Questrom School of Business is committed to fostering a safe learning environment and preventing sexual misconduct. All forms of sexual misconduct — including rape, acquaintance rape, sexual assault, domestic and dating violence, stalking, and sexual harassment — violate BU policy, whether they happen on or off campus. Title IX of the Education Amendments of 1972 prohibits sex-based discrimination in federally funded education programs. If you or someone you know has been harassed or assaulted, resources are available at <http://www.bu.edu/safety/sexual-misconduct/>.
 
 ---
 
@@ -213,7 +216,11 @@ The relative weight of assessments in your course grade is as follows:
 | 1 | 80% |
 | 0 | 70% |
 
-**You will not be cold-called.** Speaking up is your responsibility, and the bar is deliberately reachable: three contributions across eleven graded sessions. Sessions 7 and 13 are makeup sessions and are not graded for participation. **A tentative participation grade will be shared mid-semester as a form of feedback**, so you have time to adjust. Name tents are required in every session so that your contributions can be recorded.
+**Cold-calling is not how this course is run.** Participation is something you offer, not something extracted from you, and the plan is never to put you on the spot. The one situation in which the instructor will call on a student directly is when that student is plainly not following the class — distracted, disruptive, or in breach of the laptop and phone rules in the Professional Conduct Policy. Speaking up is your responsibility, and the bar is deliberately reachable: three contributions across eleven graded sessions. Sessions 7 and 13 are makeup sessions and are not graded for participation.
+
+**Attention is expected of the audience, not only of the speaker.** When the instructor or a fellow student is speaking or leading a discussion, you are expected to be following it. If the instructor asks you a question and it is clear that you were not paying attention, that costs **10 percentage points of your participation grade** — for example, a student who had earned 100% drops to 90%. It applies per incident and **is capped at 20% deduction**, so it can lower a participation grade but can never sink it on its own.
+
+**A tentative participation grade will be shared mid-semester as a form of feedback**, so you have time to adjust. Name tents are required in every session so that your contributions can be recorded.
 
 **In-class quizzes (35%).** The **in-class** quizzes act as checkpoints that reinforce the core analytical skills in Python covered over the previous sessions. There are four quizzes, in sessions **4, 6, 10, and 12**.
 
@@ -235,7 +242,7 @@ Quizzes are **handwritten on paper**. There is no software, no laptop, and no co
 
 > Note that while the following table provides a holistic overview of the course's schedule, it is only meant to give general guidance. The exact dates, topics, readings, and deliverables will be posted on Blackboard. Whenever there is a conflict between the syllabus and Blackboard, Blackboard is correct.
 
-| # | Date | Learning Objective | Topics & Concepts | Preparation & Deliverables (BEFORE class unless stated otherwise) |
+| \# | Date | Learning Objective | Topics & Concepts | Preparation & Deliverables (BEFORE class unless stated otherwise) |
 | --- | --- | --- | --- | --- |
 | 1 | Thu Sep 3 | **Introduction to Python and data analysis.** Get oriented in a coding environment and run your first lines of Python without prior programming experience. | Course overview · Python intro for business analytics · coding environments · soft entry into Python · help and inspection · libraries and quickstart with pandas | Sign up for a free [Google Colab](https://colab.research.google.com/signup) account and confirm you can open and run a notebook |
 | 2 | Thu Sep 10 | **Python fundamentals for data analysis.** Write Python that stores data, makes decisions, and repeats work, and know when a notebook is the right tool. | Review of data structures · IF statements · for loops · functions · notebooks versus scripts | — |
